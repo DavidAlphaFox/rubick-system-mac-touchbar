@@ -1,0 +1,27 @@
+{
+  "name": "rubick-system-mac-touchbar",
+  "pluginName": "mac touchbar 内存管理工具",
+  "version": "1.0.1",
+  "description": "轻松通过 touchbar 管理内存",
+  "entry": "index.js",
+  "logo": "httpss://static.91jkys.com/upload/202112/08/5bac90649c5343cabb63930b131cf8e6.png",
+  "pluginType": "system",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubickCenter/rubick-system-mac-touchbar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubickCenter/rubick-system-mac-touchbar/issues"
+  },
+  "homepage": "https://github.com/rubickCenter/rubick-system-mac-touchbar#readme",
+  "dependencies": {
+    "systeminformation": "^5.9.17"
+  },
+  "files": [
+    "node_modules",
+    "icons",
+    "index.js"
+  ]
+}
